@@ -20,6 +20,7 @@ p{
 }
 .podpis{
 	font-weight: bold;
+	color: #e459ef;
 }
 .ev{
 	padding: 3px;
@@ -135,7 +136,8 @@ ul.spisok li a:hover{
 	width: auto;
 	height: auto;
 	clear: both;
-	padding:15px;	
+	padding:15px;
+	color: #e459ef;
 }
 .box{
 	width: 199px;
